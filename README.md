@@ -1,2 +1,2 @@
 # go-sforce
-Playground for may salesforce experimentations
+Playground for my salesforce experimentations
